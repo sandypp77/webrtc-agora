@@ -1,5 +1,9 @@
 # webrtc-agora
 
+The web is build by using Vue JS for the front-end side
+The WebRTC and Chat Systems is build using Agora (https://www.agora.io/en/)
+Please change the APP_ID value according to the one obtained from the agora web !!
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
