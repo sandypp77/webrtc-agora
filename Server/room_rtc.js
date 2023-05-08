@@ -1,4 +1,4 @@
-const APP_ID = "47a81b4d72f141c7a53ede700867a705";
+const APP_ID = "YOUR APP_ID VALUE";
 import callpage from "../src/stores/callpage.js";
 import room from "../Server/room.js";
 import room_rtm from "../Server/room_rtm.js";
@@ -22,7 +22,7 @@ export default class room_rtc {
     }
     console.log("uid", uid)
 
-    let token = null;
+    let token = null; //U CAN ADD TOKEN VALUE BY REQUEST IT IN AGORA WEB (EDIT SECTION)//
     let client;
     let rtmClient;
     let channel;
